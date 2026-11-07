@@ -1,0 +1,11 @@
+{
+  "name": "Wobble Tower 3D",
+  "short_name": "Wobble Tower",
+  "description": "Pull blocks, balance the tower, conquer 5,000 unique levels.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#140b2e",
+  "theme_color": "#140b2e",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
